@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  padding: 20px;
+}
+
+.active {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 2vh;
+  transform: rotate(5deg);
+
+}
